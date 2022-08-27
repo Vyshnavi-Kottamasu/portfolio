@@ -25,14 +25,16 @@ import'./resume.css';
                                         <p>Bachelors in Computer Science Engineering</p>
                                     </div>
                                     <div className="col-md-7">
-                                       <h4>Relevant Details:</h4>
+                                       <h4>Personal Details:</h4>
                                        <ul className="bullet-points education">
                                            <li>
-
+                                            <Gmail>kvyshnavi.98@gmail.com</Gmail>
                                            </li>
                                            <li>
-
-                                               
+                                            <LinkedIn>https://www.linkedin.com/in/vyshnavi-kottamasu/</LinkedIn>                                                
+                                           </li>
+                                           <li>
+                                            Contact no: +919502560681                                       
                                            </li>
                                        </ul>
                                     </div>
@@ -47,12 +49,13 @@ import'./resume.css';
                                     <li>HTML</li>
                                     <li>CSS</li>
                                     <li>SASS</li>
-                                    <li>Bootstrap</li>
+                                    <li>Bootstrap</li>                                    
+                                    <li>Material UI</li>
                                     <li>JavaScript</li>
                                     <li>Reactjs</li>                                    
-                                    <li>MySQL</li>
-                                    <li>Redux</li>
-                                    <li>Material UI</li>
+                                    <li>MySQL</li> 
+                                    <li>AWS</li>                                   
+                                    <li>Cypress</li>
                                 </ul>
                             </div>
                 </div>
