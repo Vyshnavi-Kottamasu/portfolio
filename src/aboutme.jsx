@@ -7,7 +7,7 @@ class aboutme extends Component {
         super();
         this.state = {
             name: "Vyshnavi Kottamasu",
-            designation: "Senior Software Developer"
+            designation: "Senior Software Engineer"
         }
     }
 
