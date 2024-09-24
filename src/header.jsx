@@ -13,7 +13,7 @@ function header(props)
     <div class="collapse navbar-collapse nav-items-list" id="collapsibleNavbar">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="/aboutme">About Mee</a>
+                <a class="nav-link" href="/aboutme">About Me</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/projects">Projects</a>
